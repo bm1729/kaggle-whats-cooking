@@ -1,1 +1,0 @@
-First attempt at a kaggle competition using python.
